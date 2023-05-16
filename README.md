@@ -1,4 +1,4 @@
-![mountain](./mountain.jpg)
+![mountain](./mountain_wide.jpg)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EGNKupava)](https://git.io/streak-stats)
 
 Hi there 👋 I am a frontend developer who specializes in using JavaScript, TypeScript, React, Redux, NodeJS, MongoDB, Express, and NestJS to create dynamic and responsive web applications. 🚀 Also, I have experience creating applications with web maps such as Leaflet or Mapbox. 🌎
