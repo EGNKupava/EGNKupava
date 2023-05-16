@@ -1,20 +1,11 @@
-### Hi there 👋
+## Hi there 👋
 
- I am a frontend developer who specializes in using JavaScript, TypeScript, React, Redux, NodeJS, MongoDB, Express, and NestJS to create dynamic and responsive web applications.
+ I am a frontend developer who specializes in using JavaScript, TypeScript, React, Redux, NodeJS, MongoDB, Express, and NestJS to create dynamic and responsive web applications. 🚀 Also, I have experience creating applications with web maps such as Leaflet or Mapbox. 🌎
 
 I am passionate about creating beautiful and intuitive user interfaces that provide an exceptional user experience. With my expertise in these technologies, I can help bring your ideas to life and create solutions that meet your business needs.
 
-<!--
-**EGNKupava/EGNKupava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning AWS, NestJS and PostgreSQL.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  📫 How to reach me:
+ - e-mail: kupavaegn@gmail.com
+ - linkedin: https://www.linkedin.com/in/kupavaegn/
