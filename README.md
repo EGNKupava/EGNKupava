@@ -7,7 +7,6 @@ I am passionate about creating beautiful and intuitive user interfaces that prov
 
 -  📫 How to reach me:
  - e-mail: [kupavaegn@gmail.com](mailto:kupavaegn@gmail.com)
- - [linkedin](https://www.linkedin.com/in/kupavaegn/)
  
  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=EGNKupava&theme=nightowl)](https://git.io/streak-stats)
